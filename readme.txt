@@ -1,1 +1,3 @@
 There is "txt" file that named "ab environment." simply occured right after text_Environment.py runs
+
+That is the basically test for you to see what is the your working space environment and once you change your terminal directory to navigate into newly created folder "a main". Once you get into this folder on terminal with command of "cd", run again pyton file then you will see same folder created into the navigated folder and text file will be created in same way how you did run python program at the first place.
